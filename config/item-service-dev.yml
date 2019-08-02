@@ -1,5 +1,6 @@
 #这是一行注释
 
+#注释狂魔
 spring:
   application:
     name: item-service
