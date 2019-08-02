@@ -1,5 +1,4 @@
 # 这也是一行注释
-
 spring:
   application:
     name: order-service
