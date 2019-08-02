@@ -1,4 +1,4 @@
-
+#这是一行注释
 spring:
   application:
     name: item-service
